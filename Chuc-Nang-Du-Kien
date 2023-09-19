@@ -1,0 +1,16 @@
+-Quản lý thông tin cá nhân của nhân viên:
+***Thêm, sửa, xóa thông tin cá nhân của nhân viên, bao gồm tên, họ, ảnh đại diện, ngày sinh, giới tính, vị trí công việc, số điện thoại, địa chỉ, v.v.
+
+Quản lý lương và chế độ phúc lợi:
+Theo dõi mức lương, bảo hiểm, và các chế độ phúc lợi khác của nhân viên.
+Tạo báo cáo về tiền lương, thuế, và các khoản trợ cấp.
+
+Bảo mật và quyền truy cập:
+Xác định quyền truy cập dựa trên vai trò của từng người dùng (ví dụ: quản lý, nhân viên, HR).
+Bảo mật dữ liệu nhân viên và đảm bảo tuân thủ các quy định về bảo mật thông tin cá nhân.
+
+Tạo báo cáo và thống kê:
+Tạo các báo cáo về nhân sự như biểu đồ cơ cấu nhân viên, báo cáo về lương, tình trạng tuyển dụng, v.v.
+
+Giao diện dễ sử dụng:
+Thiết kế giao diện người dùng thân thiện và dễ sử dụng để tất cả các người dùng có thể tương tác dễ dàng với hệ thống.
